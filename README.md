@@ -1,4 +1,6 @@
-# Notação Polonesa
+# Notação Polonesa Posfixa
+
+.![Notação Polonesa](https://uploaddeimagens.com.br/images/001/987/087/original/upar.PNG?1553481707)
 
 ## Descrição do projeto
 
@@ -6,11 +8,11 @@ Trabalho individual de faculdade desenvolvido em linguagem C.
 
 ## Foco do projeto
 
-aprimorar a técnica de programação em pilha.
+Aprimorar a técnica de programação em pilha.
 
 ## Como funciona
 
-a aplicação faz calculos matematicos simples(+ - / * ), deve-se digitar dois numeros e o operador matematico logo a frente.  
+A aplicação faz calculos matematicos simples(+ - / * ), deve-se digitar dois numeros e o operador matematico logo a frente.  
 ex: 25+  o resultado dessa operação seria 2+5 = 7, pode-se utilizar até 3 operadores matematicos, seguindo a seguinte ordem:
 ex: 25+32*-  o resultado dessa operação seria 2+5 = 7,   3*2 = 6,   7-6 = 1.
 
